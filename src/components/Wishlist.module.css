@@ -1,0 +1,25 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh; /* Ensures the body takes up the full viewport height */
+   
+ }  
+
+.body {
+    border: 1px solid black;
+    height: 60vh;
+    width: 60vw;
+    text-align: center;
+    background-image: linear-gradient(red,yellow);
+}
+input{
+    height: 5vh;
+    width: 20vw;
+    margin-top: 3%;
+    margin-right: 2%;
+}
+.Wishlist{
+    margin-left: 10%;
+    
+}
